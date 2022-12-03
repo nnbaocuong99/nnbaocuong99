@@ -9,9 +9,9 @@
 
 
 ## about me:
-- 🔭 i’m currently working on a small project and making a few discord bots also doing deyployment
-- 🌱 i’m currently learning another language like ruby, c# and ...
-- 👯 i’m looking to collaborate for help to me on my moderator bot and a few private system, database control tools
+- 🔭 i’m currently working on a some small project tools, db management and making a few discord bots also doing deyployment
+- 🌱 i’m currently learning another language like ruby, c# and some frontend things
+- 👯 i’m looking to collaborate for help to me on my moderator bot and a few private system, archive docs abt helm and nginx
 - ⚡ fun fact: im living with only one quote and hate fake friends
 > if you stay at home and u still can earn money - no shit, no lie, u got my respect. and ofc real situation. if u r just saying shit for somebody to respect u, remember u r nothing, nobody care and wanna "expose" you :p ple copier still r copier. fuckoff useless.
 
