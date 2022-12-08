@@ -13,7 +13,9 @@
 - 🌱 i’m currently learning another language like ruby, c# and some frontend things
 - 👯 i’m looking to collaborate for help to me on my moderator bot and a few private system, archive docs abt helm and nginx
 - ⚡ fun fact: im living with only one quote and hate fake friends
-> if you stay at home and u still can earn money - no shit, no lie, u got my respect. and ofc real situation. if u r just saying shit for somebody to respect u, remember u r nothing, nobody care and wanna "expose" you :p ple copier still r copier. fuckoff useless.
+
+> what a loser haha. copier still copier. if u think u r really better than. stfu and made ur own stuffs :x 
+<!--if you stay at home and u still can earn money - no shit, no lie, u got my respect. and ofc real situation. if u r just saying shit for somebody to respect u, remember u r nothing, nobody care and wanna "expose" you :p ple copier still r copier. fuckoff useless.-->
 
 if you still need something there is always a way:
 - my main link:https://bio.link/spagbo
