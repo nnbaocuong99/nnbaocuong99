@@ -122,7 +122,8 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 <p><a href="https://www.buymeacoffee.com/nnbaocuong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nnbaocuong" /></a><a href="https://ko-fi.com/https://ko-fi.com/spagbo#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/spagbo#paypalModal" /></a></p><br><br>
 
----
+## 
+
 - click here [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) if you dont like those two buttons 
 
 <div align="center">
@@ -134,7 +135,7 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-if you've arrived this far, thank you for taking time out of your day to read. 
+this is the end my friend, if you've arrived this far, thank you for taking time out of your day to read, have a nice day. 
 
 ✨ best wishes,
 
