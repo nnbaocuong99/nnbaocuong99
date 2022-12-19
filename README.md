@@ -102,7 +102,16 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 ![](https://github-trophies.vercel.app/?username=nnbaocuong99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![snake gif](https://github.com/hongduccodedao/hongduccodedao/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+
+<footer align="center" >
+  <img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
+</footer>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## ✨support: (actually i dont need it, so... take it ez and keep it simple)
 <p><a href="https://www.buymeacoffee.com/nnbaocuong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nnbaocuong" /></a><a href="https://ko-fi.com/https://ko-fi.com/spagbo#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/spagbo#paypalModal" /></a></p><br><br>
