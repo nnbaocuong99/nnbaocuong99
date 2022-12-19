@@ -140,7 +140,9 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
 this is the end my friend, if you've arrived this far, thank you for taking time out of your day to read, have a nice day. 
+</div>
 
 ✨ best wishes,
 
