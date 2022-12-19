@@ -142,11 +142,11 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 <div align="center">
 this is the end my friend, if you've arrived this far, thank you for taking time out of your day to read, have a nice day. 
-</div>
 
 ✨ best wishes,
 
 𝓃𝓃𝒷𝒸
+</div>
 
 <h3 align="center">
 
