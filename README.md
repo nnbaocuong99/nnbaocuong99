@@ -26,8 +26,10 @@
 <!--if you stay at home and u still can earn money - no shit, no lie, u got my respect. and ofc real situation. if u r just saying shit for somebody to respect u, remember u r nothing, nobody care and wanna "expose" you :p ple copier still r copier. fuckoff useless.-->
 
 if you still need something there is always a way:
-- my main link:https://bio.link/spagbo
-- my steam: https://steamcommunity.com/id/sxdpxrxdise/
+- my main links <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/spagbo.jpg" alt="uvu" width="30"> : [click here](https://bio.link/spagbo)
+
+- my steam account <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/steam.gif" alt="uvu" width="30"> : [click here](https://steamcommunity.com/id/sxdpxrxdise/)
+
 ---
 
 <h3 align="center"> ✨ what i'm doing</h3>
