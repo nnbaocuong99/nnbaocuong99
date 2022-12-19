@@ -8,7 +8,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## about me:
+<h3 align="left"> ✨ about me:</h3>
+<p align="left">
+
 - 🔭 i’m currently working on a some small project tools, db management and making a few discord bots also doing deyployment
 - 🌱 i’m currently learning another language like ruby, c# and some frontend things
 - 👯 i’m looking to collaborate for help to me on my moderator bot and a few private system, archive docs abt helm and nginx
@@ -22,7 +24,7 @@ if you still need something there is always a way:
 - my steam: https://steamcommunity.com/id/sxdpxrxdise/
 ---
 
-<h3 align="left"> what i'm doing</h3>
+<h3 align="left"> ✨ what i'm doing</h3>
 <p align="left">
 
 based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call me `spagbo` this also my artist name. 22 y/o still young and friendly i'm currently:
@@ -36,7 +38,9 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 > AND ONE MORE IMPORTANT THING: github is just a place where i storage my old project and feel free if it helpful for u just for a little bit. main platform for now is gitlab.
 
-<h3 align="left"> you can connect with me:</h3>
+---
+
+<h3 align="left"> ✨ you can connect with me:</h3>
 <p align="left">
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Knf2qJcRb6) :: https://discord.gg/Knf2qJcRb6
@@ -50,7 +54,7 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## t.stack
+## ✨t.stack
 - langs:
 > <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </p>
 
@@ -101,7 +105,7 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## support: (actually i dont need it, so... take it ez and keep it simple)
+## ✨support: (actually i dont need it, so... take it ez and keep it simple)
 <p><a href="https://www.buymeacoffee.com/nnbaocuong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nnbaocuong" /></a><a href="https://ko-fi.com/https://ko-fi.com/spagbo#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/spagbo#paypalModal" /></a></p><br><br>
 
 ---
