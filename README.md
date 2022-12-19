@@ -94,6 +94,7 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 - available, CI/CD pip: [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/) [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) | [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/) [![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/) and [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
 - [![GitLab issues open](https://badgen.net/gitlab/open-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner) [![GitLab issues closed](https://badgen.net/gitlab/closed-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner) 
+- [![](https://visitcount.itsvg.in/api?id=nnbaocuong99&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <h3 align="center">
 
@@ -101,13 +102,16 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 ![](https://github-trophies.vercel.app/?username=nnbaocuong99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+</h3>
+
+<!--
 <div align="center">
     <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/contribution-grid-snake.gif" alt="uvu" width="400">
     <br>
     <br>
 </div>
+-->
 
-</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--## ✨support: (actually i dont need it, so... take it ez and keep it simple)-->
