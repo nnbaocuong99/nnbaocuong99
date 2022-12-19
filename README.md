@@ -14,8 +14,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="left"> ✨ about me:</h3>
-<p align="left">
+<h3 align="center"> ✨ about me:</h3>
+<p align="center">
 
 - 🔭 i’m currently working on a some small project tools, db management and making a few discord bots also doing deyployment
 - 🌱 i’m currently learning another language like ruby, c# and some frontend things
@@ -30,8 +30,8 @@ if you still need something there is always a way:
 - my steam: https://steamcommunity.com/id/sxdpxrxdise/
 ---
 
-<h3 align="left"> ✨ what i'm doing</h3>
-<p align="left">
+<h3 align="center"> ✨ what i'm doing</h3>
+<p align="center">
 
 based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call me `spagbo` this also my artist name. 22 y/o still young and friendly i'm currently:
 - a DevOps working for [Nexttech Corp. - Inc.](https://nexttech.asia)
@@ -45,17 +45,18 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 ---
 
-<h3 align="left"> ✨ you can connect with me:</h3>
-<p align="left">
+<h3 align="center"> ✨ you can connect with me:</h3>
+<p align="center">
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Knf2qJcRb6) :: https://discord.gg/Knf2qJcRb6
 - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) :: https://facebook.com/https://www.facebook.com/nnbaocuongg99 
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) :: https://instagram.com/@spagbomusic 
 
-<h3 align="left"> or basically click on those icon below:</h3>
-<p align="left">
+<h3 align="center"> or basically click on those icon below:</h3>
+<p align="center">
 
-<a href="https://discord.gg/Knf2qJcRb6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Knf2qJcRb6" height="30" width="40" /></a> :: <a href="https://instagram.com/spagbomusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spagbomusic" height="30" width="40" /></a> :: <a href="https://fb.com/nnbaocuong99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nnbaocuong99" height="30" width="40" /></a> </p>
+<h3 align="center">
+<a href="https://discord.gg/Knf2qJcRb6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Knf2qJcRb6" height="30" width="40" /></a> :: <a href="https://instagram.com/spagbomusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spagbomusic" height="30" width="40" /></a> :: <a href="https://fb.com/nnbaocuong99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nnbaocuong99" height="30" width="40" /></a> </p> </h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -106,23 +107,29 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 - available, CI/CD pip: [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/) [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) | [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/) [![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/) and [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
 - [![GitLab issues open](https://badgen.net/gitlab/open-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner) [![GitLab issues closed](https://badgen.net/gitlab/closed-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner) 
 
+<h3 align="center">
+
 ![](https://github-trophies.vercel.app/?username=nnbaocuong99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![snake gif](https://github.com/hongduccodedao/hongduccodedao/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
 
 <footer align="center" >
   <img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
 </footer>
 
+</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h3 align="left"> ✨support: (actually i dont need it, so... take it ez and keep it simple)</h3>
+<p align="left">
 
-## ✨support: (actually i dont need it, so... take it ez and keep it simple)
-<p><a href="https://www.buymeacoffee.com/nnbaocuong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nnbaocuong" /></a><a href="https://ko-fi.com/https://ko-fi.com/spagbo#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/spagbo#paypalModal" /></a></p><br><br>
+<!--## ✨support: (actually i dont need it, so... take it ez and keep it simple)-->
+
+<a href="https://www.buymeacoffee.com/nnbaocuong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nnbaocuong" /> </a> <a href="https://ko-fi.com/https://ko-fi.com/spagbo#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/spagbo#paypalModal" /> </a>
 
 ---
+
 - click here [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/spagbo) if you dont like those two buttons 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
