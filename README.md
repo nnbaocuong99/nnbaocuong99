@@ -5,7 +5,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;call+me+sxdpxrxdise;"></p>
 
 <div align="center">
-    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/raiden-shogun-baal.gif" alt="uvu" width="400">
+    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/raiden-shogun-baal.gif" alt="uvu" width="400">
     <br>
     <br>
 </div>
@@ -101,7 +101,11 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 
 ![](https://github-trophies.vercel.app/?username=nnbaocuong99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![snake gif](https://github.com/hongduccodedao/hongduccodedao/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<div align="center">
+    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/contribution-grid-snake.gif" alt="uvu" width="400">
+    <br>
+    <br>
+</div>
 
 </h3>
 
