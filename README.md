@@ -1,4 +1,4 @@
-<h1 align="center"> hi 👋, im ✨ 𝓷𝓷𝓫𝓪𝓸𝓬𝓾𝓸𝓷𝓰 ✨ </h1>
+<h1 align="center"> hi 👋, im ✨ nnbaocuong99 ✨ </h1>
 
 <h3 align="center"> welcome, thanks for visiting, for now i'll introduce myself </h3>
 
@@ -29,9 +29,9 @@
 <!--if you stay at home and u still can earn money - no shit, no lie, u got my respect. and ofc real situation. if u r just saying shit for somebody to respect u, remember u r nothing, nobody care and wanna "expose" you :p ple copier still r copier. fuckoff useless.-->
 
 if you still need something there is always a way:
-- my main links <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/spagbo.jpg" alt="uvu" width="30"> : [click here](https://bio.link/spagbo)
+- my main links <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/spagbo.jpg" alt="uvu" width="30"> : [𝘤𝘭𝘪𝘤𝘬 𝘩𝘦𝘳𝘦](https://bio.link/spagbo)
 
-- my steam account <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/steam.gif" alt="uvu" width="30"> : [click here](https://steamcommunity.com/id/sxdpxrxdise/)
+- my steam account <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/steam.gif" alt="uvu" width="30"> : [𝘤𝘭𝘪𝘤𝘬 𝘩𝘦𝘳𝘦](https://steamcommunity.com/id/sxdpxrxdise/)
 
 ---
 
@@ -42,7 +42,7 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 - a DevOps working for [Nexttech Corp. - Inc.](https://nexttech.asia)
 - started making music in 2014 and now are music producer working for: [RioX](https://www.facebook.com/RioXmusic/), [SummerSounds](http://summersounds.be), [HyperMusic](https://hypershop.vn) (got verified on Mixbox since 2017) and [Interitum.](https://soundcloud.com/interitumrecs)
 - amateur discord bot dev and owner of [67 Trần Nhân Tông, HN]( https://discord.gg/Knf2qJcRb6)
-- making some `workshops` on `wallpaper engine` about cars, lol, genshin impact,.. some stuffs are in the showcase ([here](https://steamcommunity.com/id/sxdpxrxdise/myworkshopfiles/)), if you like it remember to leave me a like, sub, and also award(s) 🤩 if you want - that's mean a lot to me 💖 
+- making some `workshops` on `wallpaper engine` about cars, lol, genshin impact,.. some stuffs are in the showcase ([𝘤𝘭𝘪𝘤𝘬 𝘩𝘦𝘳𝘦](https://steamcommunity.com/id/sxdpxrxdise/myworkshopfiles/)), if you like it remember to leave me a like, sub, and also award(s) 🤩 if you want - that's mean a lot to me 💖 
 
 - I'm in   ![Love](https://img.shields.io/badge/Love-pink?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIFNwb25zb3JzIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xNy42MjUgMS40OTljLTIuMzIgMC00LjM1NCAxLjIwMy01LjYyNSAzLjAzLTEuMjcxLTEuODI3LTMuMzA1LTMuMDMtNS42MjUtMy4wM0MzLjEyOSAxLjQ5OSAwIDQuMjUzIDAgOC4yNDljMCA0LjI3NSAzLjA2OCA3Ljg0NyA1LjgyOCAxMC4yMjdhMzMuMTQgMzMuMTQgMCAwIDAgNS42MTYgMy44NzZsLjAyOC4wMTcuMDA4LjAwMy0uMDAxLjAwM2MuMTYzLjA4NS4zNDIuMTI2LjUyMS4xMjUuMTc5LjAwMS4zNTgtLjA0MS41MjEtLjEyNWwtLjAwMS0uMDAzLjAwOC0uMDAzLjAyOC0uMDE3YTMzLjE0IDMzLjE0IDAgMCAwIDUuNjE2LTMuODc2QzIwLjkzMiAxNi4wOTYgMjQgMTIuNTI0IDI0IDguMjQ5YzAtMy45OTYtMy4xMjktNi43NS02LjM3NS02Ljc1em0tLjkxOSAxNS4yNzVhMzAuNzY2IDMwLjc2NiAwIDAgMS00LjcwMyAzLjMxNmwtLjAwNC0uMDAyLS4wMDQuMDAyYTMwLjk1NSAzMC45NTUgMCAwIDEtNC43MDMtMy4zMTZjLTIuNjc3LTIuMzA3LTUuMDQ3LTUuMjk4LTUuMDQ3LTguNTIzIDAtMi43NTQgMi4xMjEtNC41IDQuMTI1LTQuNSAyLjA2IDAgMy45MTQgMS40NzkgNC41NDQgMy42ODQuMTQzLjQ5NS41OTYuNzk3IDEuMDg2Ljc5Ni40OS4wMDEuOTQzLS4zMDIgMS4wODUtLjc5Ni42My0yLjIwNSAyLjQ4NC0zLjY4NCA0LjU0NC0zLjY4NCAyLjAwNCAwIDQuMTI1IDEuNzQ2IDQuMTI1IDQuNSAwIDMuMjI1LTIuMzcgNi4yMTYtNS4wNDggOC41MjN6Ii8+PC9zdmc+)   with nkl
 
@@ -57,7 +57,7 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) :: https://facebook.com/https://www.facebook.com/nnbaocuongg99 
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) :: https://instagram.com/@spagbomusic 
 
-<h3 align="center"> or basically click on those icon below:</h3>
+<h3 align="center"> ᴏʀ ʙᴀꜱɪᴄᴀʟʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴏꜱᴇ ɪᴄᴏɴ ʙᴇʟᴏᴡ:</h3>
 <p align="center">
 
 <h3 align="center">
