@@ -4,8 +4,11 @@
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;call+me+sxdpxrxdise;"></p>
 
-
-![Uploading raiden-shogun-baal.gif…]()
+<div align="center">
+    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/raiden-shogun-baal.gif" alt="uvu" width="400">
+    <br>
+    <br>
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
