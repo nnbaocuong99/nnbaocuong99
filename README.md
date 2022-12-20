@@ -39,8 +39,8 @@ if you still need something there is always a way:
 <p align="center">
 
 based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call me `spagbo` this also my artist name. 22 y/o still young and friendly i'm currently:
-- a DevOps working for [Nexttech Corp. - Inc.](https://nexttech.asia)
-- started making music in 2014 and now are music producer working for: [RioX](https://www.facebook.com/RioXmusic/), [SummerSounds](http://summersounds.be), [HyperMusic](https://hypershop.vn) (got verified on Mixbox since 2017) and [Interitum.](https://soundcloud.com/interitumrecs)
+- a DevOps working for [𝙉𝙚𝙭𝙩𝙩𝙚𝙘𝙝 𝘾𝙤𝙧𝙥. - 𝙄𝙣𝙘.](https://nexttech.asia)
+- started making music in 2014 and now are music producer working for: [𝙍𝙞𝙤𝙓](https://www.facebook.com/RioXmusic/), [𝙎𝙪𝙢𝙢𝙚𝙧𝙎𝙤𝙪𝙣𝙙𝙨](http://summersounds.be), [𝙃𝙮𝙥𝙚𝙧𝙈𝙪𝙨𝙞𝙘](https://hypershop.vn) (got verified on Mixbox since 2017) and [𝙄𝙣𝙩𝙚𝙧𝙞𝙩𝙪𝙢.](https://soundcloud.com/interitumrecs)
 - amateur discord bot dev and owner of [67 Trần Nhân Tông, HN]( https://discord.gg/Knf2qJcRb6)
 - making some `workshops` on `wallpaper engine` about cars, lol, genshin impact,.. some stuffs are in the showcase ([𝘤𝘭𝘪𝘤𝘬 𝘩𝘦𝘳𝘦](https://steamcommunity.com/id/sxdpxrxdise/myworkshopfiles/)), if you like it remember to leave me a like, sub, and also award(s) 🤩 if you want - that's mean a lot to me 💖 
 
