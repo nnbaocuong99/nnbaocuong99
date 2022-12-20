@@ -12,6 +12,15 @@
 
 <div align="center">
   𝘸 𝘦 𝘭 𝘤 𝘰 𝘮 𝘦 𝘵 𝘰 𝘮 𝘺 𝘴 𝘹 𝘥 𝘱 𝘹 𝘳 𝘹 𝘥 𝘪 𝘴 𝘦
+
+
+## » [MXRGX - SAD PARADISE](https://soundcloud.com/mxrgx/sad-paradise) «
+
+0:32 ━━❍─────── 2:43
+
+↻     ⊲  Ⅱ  ⊳     ↺
+
+Volume: ▁▂▃▄▅▆▇ 100%
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
