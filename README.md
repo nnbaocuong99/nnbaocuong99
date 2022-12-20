@@ -12,15 +12,6 @@
 
 <div align="center">
   𝘸 𝘦 𝘭 𝘤 𝘰 𝘮 𝘦 𝘵 𝘰 𝘮 𝘺 𝘴 𝘹 𝘥 𝘱 𝘹 𝘳 𝘹 𝘥 𝘪 𝘴 𝘦
-
-
-## » [now playing: sad paradise](https://github.com/nnbaocuong99/nnbaocuong99/blob/main/sngs/sad%20paradise.mp3) «
-
-0:32 ━━❍─────── 2:43
-
-↻     ⊲  Ⅱ  ⊳     ↺
-
-Volume: ▁▂▃▄▅▆▇ 100%
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -161,6 +152,14 @@ this is the end my friend, if you've arrived this far, thank you for taking time
 <footer align="center" >
   <img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
 </footer>
+
+## » [now playing: sad paradise](https://github.com/nnbaocuong99/nnbaocuong99/blob/main/sngs/sad%20paradise.mp3) «
+
+0:32 ━━❍─────── 2:43
+
+↻     ⊲  Ⅱ  ⊳     ↺
+
+Volume: ▁▂▃▄▅▆▇ 100%
 
 </h3>
 
