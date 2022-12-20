@@ -14,7 +14,7 @@
   𝘸 𝘦 𝘭 𝘤 𝘰 𝘮 𝘦 𝘵 𝘰 𝘮 𝘺 𝘴 𝘹 𝘥 𝘱 𝘹 𝘳 𝘹 𝘥 𝘪 𝘴 𝘦
 
 
-## » [MXRGX - SAD PARADISE](https://soundcloud.com/mxrgx/sad-paradise) «
+## » [now playing: sad paradise](https://github.com/nnbaocuong99/nnbaocuong99/blob/main/sngs/sad%20paradise.mp3) «
 
 0:32 ━━❍─────── 2:43
 
