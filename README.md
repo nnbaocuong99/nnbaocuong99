@@ -152,6 +152,10 @@ this is the end my friend, if you've arrived this far, thank you for taking time
 <footer align="center" >
   <img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
 </footer>
+</h3>
+
+
+<h3 align="center">
 
 ## » [now playing: sad paradise](https://github.com/nnbaocuong99/nnbaocuong99/blob/main/sngs/sad%20paradise.mp3) «
 
