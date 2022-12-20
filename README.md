@@ -5,7 +5,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;call+me+sxdpxrxdise;"></p>
 
 <div align="center">
-    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/raiden-shogun-baal.gif" alt="uvu" width="400">
+    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/raiden-shogun-baal.gif" alt="uvu" width="600">
     <br>
     <br>
 </div>
@@ -29,9 +29,9 @@
 <!--if you stay at home and u still can earn money - no shit, no lie, u got my respect. and ofc real situation. if u r just saying shit for somebody to respect u, remember u r nothing, nobody care and wanna "expose" you :p ple copier still r copier. fuckoff useless.-->
 
 if you still need something there is always a way:
-- my main links <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/spagbo.jpg" alt="uvu" width="30"> : [𝘤𝘭𝘪𝘤𝘬 𝘩𝘦𝘳𝘦](https://bio.link/spagbo)
+- <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/spagbo.jpg" alt="uvu" width="40"> : [𝘮𝘺 𝘮𝘢𝘪𝘯 𝘭𝘪𝘯𝘬𝘴](https://bio.link/spagbo)
 
-- my steam account <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/steam.gif" alt="uvu" width="30"> : [𝘤𝘭𝘪𝘤𝘬 𝘩𝘦𝘳𝘦](https://steamcommunity.com/id/sxdpxrxdise/)
+- <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/steam.gif" alt="uvu" width="40"> : [𝘮𝘺 𝘴𝘵𝘦𝘢𝘮 𝘢𝘤𝘤𝘰𝘶𝘯𝘵](https://steamcommunity.com/id/sxdpxrxdise/)
 
 ---
 
@@ -132,7 +132,7 @@ based in Ha Noi - Viet Nam, my full name is `nguyen ngoc bao cuong` or just call
 - click here [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) if you dont like those two buttons 
 
 <div align="center">
-    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/vibe-cat.gif" alt="uvu" width="400">
+    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/vibe-cat.gif" alt="uvu" width="300">
     <br>
     <br>
 </div>
