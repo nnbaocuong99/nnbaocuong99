@@ -5,7 +5,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;"></p>
 
 <div align="center">
-    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/synthwave-retrowave.gif" alt="uvu" width="500">
+    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/AridKaleidoscopicBlacklemur-size_restricted.gif" alt="uvu" width="500">
     <br>
     <br>
 </div>
