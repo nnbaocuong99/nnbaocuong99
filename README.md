@@ -2,16 +2,16 @@
 
 <h3 align="center"> welcome, thanks for visiting, for now i'll introduce myself </h3>
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;call+me+sxdpxrxdise;"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;"></p>
 
 <div align="center">
-    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/raiden-shogun-baal.gif" alt="uvu" width="500">
+    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/synthwave-retrowave.gif" alt="uvu" width="500">
     <br>
     <br>
 </div>
 
 <div align="center">
-  𝘪 𝘭 𝘰 𝘷 𝘦 𝘳 𝘢 𝘪 𝘥 𝘦 𝘯 𝘴 𝘩 𝘰 𝘨 𝘶 𝘯
+  𝘸 𝘦 𝘭 𝘤 𝘰 𝘮 𝘦 𝘵 𝘰 𝘮 𝘺 𝘴 𝘹 𝘥 𝘱 𝘹 𝘳 𝘹 𝘥 𝘪 𝘴 𝘦
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
