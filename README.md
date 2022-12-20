@@ -5,7 +5,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;call+me+sxdpxrxdise;"></p>
 
 <div align="center">
-    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/raiden-shogun-baal.gif" alt="uvu" width="600">
+    <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/raiden-shogun-baal.gif" alt="uvu" width="500">
     <br>
     <br>
 </div>
@@ -29,9 +29,9 @@
 <!--if you stay at home and u still can earn money - no shit, no lie, u got my respect. and ofc real situation. if u r just saying shit for somebody to respect u, remember u r nothing, nobody care and wanna "expose" you :p ple copier still r copier. fuckoff useless.-->
 
 if you still need something there is always a way:
-- <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/spagbo.jpg" alt="uvu" width="40"> : [𝘮𝘺 𝘮𝘢𝘪𝘯 𝘭𝘪𝘯𝘬𝘴](https://bio.link/spagbo)
+- <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/spagbo.jpg" alt="uvu" width="40"> :: [𝘮𝘺 𝘮𝘢𝘪𝘯 𝘭𝘪𝘯𝘬𝘴](https://bio.link/spagbo)
 
-- <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/steam.gif" alt="uvu" width="40"> : [𝘮𝘺 𝘴𝘵𝘦𝘢𝘮 𝘢𝘤𝘤𝘰𝘶𝘯𝘵](https://steamcommunity.com/id/sxdpxrxdise/)
+- <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/steam.gif" alt="uvu" width="40"> :: [𝘮𝘺 𝘴𝘵𝘦𝘢𝘮 𝘢𝘤𝘤𝘰𝘶𝘯𝘵](https://steamcommunity.com/id/sxdpxrxdise/)
 
 ---
 
