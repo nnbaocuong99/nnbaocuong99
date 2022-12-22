@@ -1,6 +1,6 @@
 <h1 align="center"> hi 👋, im ✨ nnbaocuong99 ✨ </h1>
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;S+X+D+P+X+R+X+D+I+S+E"></p>
+<div align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;S+X+D+P+X+R+X+D+I+S+E"></div>
 
 <div align="center">
     <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/AridKaleidoscopicBlacklemur-size_restricted.gif" alt="uvu" width="500">
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  𝘸 𝘦 𝘭 𝘤 𝘰 𝘮 𝘦 𝘵 𝘰 𝘮 𝘺 𝘴 𝘹 𝘥 𝘱 𝘹 𝘳 𝘹 𝘥 𝘪 𝘴 𝘦
+  𝙎 𝙓 𝘿 𝙋 𝙓 𝙍 𝙓 𝘿 𝙄 𝙎 𝙀
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
