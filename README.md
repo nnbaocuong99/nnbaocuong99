@@ -1,8 +1,6 @@
 <h1 align="center"> hi 👋, im ✨ nnbaocuong99 ✨ </h1>
 
-<h3 align="center"> welcome, thanks for visiting, for now i'll introduce myself </h3>
-
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day;S+X+D+P+X+R+X+D+I+S+E"></p>
 
 <div align="center">
     <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/AridKaleidoscopicBlacklemur-size_restricted.gif" alt="uvu" width="500">
