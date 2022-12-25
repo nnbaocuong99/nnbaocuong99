@@ -152,7 +152,7 @@ this is the end my friend, if you've arrived this far, thank you for taking time
 </footer>
 </h3>
 
-
+<!--
 <div align="center">
 
 ## » [now playing: sad paradise](https://github.com/nnbaocuong99/nnbaocuong99/blob/main/sngs/sad%20paradise.mp3) «
@@ -164,7 +164,7 @@ this is the end my friend, if you've arrived this far, thank you for taking time
 Volume: ▁▂▃▄▅▆▇ 100%
 
 </div>
-
+-->
 ##
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
