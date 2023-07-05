@@ -1,6 +1,8 @@
-<!--INTRODUCING-->
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'm ✨ nnbaocuong99 ✨</h1>
+<!--INTRODUCING
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'm ✨ nnbaocuong99 ✨</h1>-->
 <div align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day"></div>
+
+![hive-didver6](https://github.com/nnbaocuong99/nnbaocuong99/assets/100349044/772589f8-261f-4861-819b-650fcd967cfa)
 
 <div align="center">
     <img src="https://github.com/nnbaocuong99/nnbaocuong99/blob/main/imgs/Circle-fix.jpg" alt="uvu" width="1000">
@@ -44,8 +46,6 @@ Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</in
 </p>
 
 <br> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -221,9 +221,10 @@ Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</in
 
 
 
+![hive-didver6](https://github.com/nnbaocuong99/nnbaocuong99/assets/100349044/772589f8-261f-4861-819b-650fcd967cfa)
 
-<!-- STATS -->
-<h2 align="center"> ✨ 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐒𝐭𝐚𝐭𝐢𝐜𝐬 </h2>
+<!-- STATS 
+<h2 align="center"> ✨ 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐒𝐭𝐚𝐭𝐢𝐜𝐬 </h2>-->
 <p align="center">
 <h3 align="center">
 <!--
@@ -279,7 +280,7 @@ Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</in
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![hive-didver6](https://github.com/nnbaocuong99/nnbaocuong99/assets/100349044/772589f8-261f-4861-819b-650fcd967cfa)
 
 <br>
 
@@ -309,6 +310,8 @@ Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</in
 
 
 <!--
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 
 ## » [now playing: sad paradise](https://github.com/nnbaocuong99/nnbaocuong99/blob/main/sngs/sad%20paradise.mp3) «
