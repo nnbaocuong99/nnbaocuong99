@@ -47,6 +47,12 @@ Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</in
 
 <br> 
 
+<div align="center">
+    <img src="https://github.com/nnbaocuong99/nnbaocuong99/assets/100349044/ffd1eac4-9f3f-4996-a9c6-edf782095f5d" alt="uvu" width=900">
+    <br>
+    <br>
+</div>
+
 <br>
 
 `Click to expand`
@@ -221,7 +227,7 @@ Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</in
 
 
 
-![hive-didver6](https://github.com/nnbaocuong99/nnbaocuong99/assets/100349044/772589f8-261f-4861-819b-650fcd967cfa)
+
 
 <!-- STATS 
 <h2 align="center"> ✨ 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐒𝐭𝐚𝐭𝐢𝐜𝐬 </h2>-->
@@ -235,8 +241,6 @@ Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</in
 ![](https://github-trophies.vercel.app/?username=nnbaocuong99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nnbaocuong99&theme=radical&hide_border=false)
 
 </h3>
 
@@ -300,6 +304,7 @@ Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</in
   <img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
 </footer>
 </h3>
+
 
 
 
