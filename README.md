@@ -17,8 +17,8 @@
 
 Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</ins> or just call me <ins>***Spagbo***</ins> this also my artist name. Love the way to being a producer, gamer and 27/4 Discord UsEr hehe
 - <ins>***I'm currently:***</ins>
-  -  DevOps working for [𝙉𝙚𝙭𝙩𝙩𝙚𝙘𝙝 𝘾𝙤𝙧𝙥. - 𝙄𝙣𝙘.](https://nexttech.asia) 
-  > Feel free to contact at: *`cuongnnb@mpos.vn` / `cuongnnb@nextpay.vn`*
+
+  - DevOps, DBA, Producer
 
   - Started making music in 2014 and now are music producer working for: [𝙍𝙞𝙤𝙓](https://www.facebook.com/RioXmusic/), [𝙎𝙪𝙢𝙢𝙚𝙧𝙎𝙤𝙪𝙣𝙙𝙨](http://summersounds.be), [𝙃𝙮𝙥𝙚𝙧𝙈𝙪𝙨𝙞𝙘](https://hypershop.vn) (new platform is Mixbox and also got verified since 2017) and [𝙄𝙣𝙩𝙚𝙧𝙞𝙩𝙪𝙢.](https://soundcloud.com/interitumrecs)
 
