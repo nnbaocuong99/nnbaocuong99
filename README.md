@@ -46,13 +46,13 @@ Based in Ha Noi - Viet Nam, my full name is <ins>***Nguyen Ngoc bao Cuong***</in
 </p>
 
 <br> 
-
+<!--
 <div align="center">
     <img src="https://github.com/nnbaocuong99/nnbaocuong99/assets/100349044/ffd1eac4-9f3f-4996-a9c6-edf782095f5d" alt="uvu" width=900">
     <br>
     <br>
 </div>
-
+-->
 <br>
 
 `Click to expand`
